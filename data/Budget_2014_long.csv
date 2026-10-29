@@ -1,0 +1,636 @@
+Budget Year,Market,Region,Category,Month,Budget Sales,Budget Profit
+2014,APAC,Central Asia,Furniture,1,10431.0,3049.0
+2014,APAC,Central Asia,Furniture,2,2281.0,847.0
+2014,APAC,Central Asia,Furniture,3,5781.0,895.0
+2014,APAC,Central Asia,Furniture,4,1386.0,-121.0
+2014,APAC,Central Asia,Furniture,5,7000.0,221.0
+2014,APAC,Central Asia,Furniture,6,3729.0,819.0
+2014,APAC,Central Asia,Furniture,7,7459.0,2654.0
+2014,APAC,Central Asia,Furniture,8,17552.0,1744.0
+2014,APAC,Central Asia,Furniture,9,4848.0,1177.0
+2014,APAC,Central Asia,Furniture,10,9504.0,2252.0
+2014,APAC,Central Asia,Furniture,11,11999.0,1415.0
+2014,APAC,Central Asia,Furniture,12,11242.0,1293.0
+2014,APAC,Central Asia,Office Supplies,1,2071.0,381.0
+2014,APAC,Central Asia,Office Supplies,2,1705.0,346.0
+2014,APAC,Central Asia,Office Supplies,3,1939.0,432.0
+2014,APAC,Central Asia,Office Supplies,4,1996.0,697.0
+2014,APAC,Central Asia,Office Supplies,5,6788.0,1152.0
+2014,APAC,Central Asia,Office Supplies,6,3055.0,637.0
+2014,APAC,Central Asia,Office Supplies,7,3250.0,657.0
+2014,APAC,Central Asia,Office Supplies,8,3605.0,642.0
+2014,APAC,Central Asia,Office Supplies,9,7035.0,1390.0
+2014,APAC,Central Asia,Office Supplies,10,2865.0,972.0
+2014,APAC,Central Asia,Office Supplies,11,1838.0,459.0
+2014,APAC,Central Asia,Office Supplies,12,5487.0,1133.0
+2014,APAC,Central Asia,Technology,1,3423.0,258.0
+2014,APAC,Central Asia,Technology,2,526.0,160.0
+2014,APAC,Central Asia,Technology,3,4587.0,1359.0
+2014,APAC,Central Asia,Technology,4,3596.0,249.0
+2014,APAC,Central Asia,Technology,5,10371.0,3169.0
+2014,APAC,Central Asia,Technology,6,21784.0,6023.0
+2014,APAC,Central Asia,Technology,7,3276.0,246.0
+2014,APAC,Central Asia,Technology,8,21619.0,2904.0
+2014,APAC,Central Asia,Technology,9,23633.0,-545.0
+2014,APAC,Central Asia,Technology,10,6029.0,1446.0
+2014,APAC,Central Asia,Technology,11,6065.0,1719.0
+2014,APAC,Central Asia,Technology,12,7494.0,922.0
+2014,APAC,North Asia,Furniture,1,12446.0,1920.0
+2014,APAC,North Asia,Furniture,2,5928.0,1399.0
+2014,APAC,North Asia,Furniture,3,2913.0,673.0
+2014,APAC,North Asia,Furniture,4,5727.0,-596.0
+2014,APAC,North Asia,Furniture,5,9594.0,-808.0
+2014,APAC,North Asia,Furniture,6,16685.0,4946.0
+2014,APAC,North Asia,Furniture,7,12135.0,2596.0
+2014,APAC,North Asia,Furniture,8,23009.0,3200.0
+2014,APAC,North Asia,Furniture,9,11604.0,3735.0
+2014,APAC,North Asia,Furniture,10,17631.0,3411.0
+2014,APAC,North Asia,Furniture,11,9099.0,1733.0
+2014,APAC,North Asia,Furniture,12,14620.0,1849.0
+2014,APAC,North Asia,Office Supplies,1,1840.0,530.0
+2014,APAC,North Asia,Office Supplies,2,3691.0,913.0
+2014,APAC,North Asia,Office Supplies,3,1271.0,304.0
+2014,APAC,North Asia,Office Supplies,4,1781.0,564.0
+2014,APAC,North Asia,Office Supplies,5,7395.0,2117.0
+2014,APAC,North Asia,Office Supplies,6,10287.0,1382.0
+2014,APAC,North Asia,Office Supplies,7,3817.0,1077.0
+2014,APAC,North Asia,Office Supplies,8,9854.0,1581.0
+2014,APAC,North Asia,Office Supplies,9,5728.0,1109.0
+2014,APAC,North Asia,Office Supplies,10,10138.0,2590.0
+2014,APAC,North Asia,Office Supplies,11,3307.0,727.0
+2014,APAC,North Asia,Office Supplies,12,4707.0,1115.0
+2014,APAC,North Asia,Technology,1,4583.0,565.0
+2014,APAC,North Asia,Technology,2,2028.0,335.0
+2014,APAC,North Asia,Technology,3,6191.0,2147.0
+2014,APAC,North Asia,Technology,4,5560.0,1532.0
+2014,APAC,North Asia,Technology,5,8048.0,2180.0
+2014,APAC,North Asia,Technology,6,14278.0,2944.0
+2014,APAC,North Asia,Technology,7,12658.0,2029.0
+2014,APAC,North Asia,Technology,8,8929.0,1570.0
+2014,APAC,North Asia,Technology,9,9173.0,2374.0
+2014,APAC,North Asia,Technology,10,6679.0,1657.0
+2014,APAC,North Asia,Technology,11,13295.0,3615.0
+2014,APAC,North Asia,Technology,12,8176.0,1506.0
+2014,APAC,Oceania,Furniture,1,9305.0,1408.0
+2014,APAC,Oceania,Furniture,2,11279.0,-898.0
+2014,APAC,Oceania,Furniture,3,8332.0,1153.0
+2014,APAC,Oceania,Furniture,4,3954.0,222.0
+2014,APAC,Oceania,Furniture,5,9267.0,-156.0
+2014,APAC,Oceania,Furniture,6,19279.0,3947.0
+2014,APAC,Oceania,Furniture,7,2870.0,-242.0
+2014,APAC,Oceania,Furniture,8,11936.0,1003.0
+2014,APAC,Oceania,Furniture,9,26684.0,4479.0
+2014,APAC,Oceania,Furniture,10,12217.0,-169.0
+2014,APAC,Oceania,Furniture,11,11106.0,913.0
+2014,APAC,Oceania,Furniture,12,15288.0,386.0
+2014,APAC,Oceania,Office Supplies,1,7907.0,906.0
+2014,APAC,Oceania,Office Supplies,2,1650.0,278.0
+2014,APAC,Oceania,Office Supplies,3,8211.0,2813.0
+2014,APAC,Oceania,Office Supplies,4,3573.0,413.0
+2014,APAC,Oceania,Office Supplies,5,9974.0,1434.0
+2014,APAC,Oceania,Office Supplies,6,9179.0,1229.0
+2014,APAC,Oceania,Office Supplies,7,7101.0,1309.0
+2014,APAC,Oceania,Office Supplies,8,7803.0,1351.0
+2014,APAC,Oceania,Office Supplies,9,9283.0,941.0
+2014,APAC,Oceania,Office Supplies,10,13001.0,-148.0
+2014,APAC,Oceania,Office Supplies,11,5750.0,453.0
+2014,APAC,Oceania,Office Supplies,12,16907.0,2239.0
+2014,APAC,Oceania,Technology,1,10813.0,1046.0
+2014,APAC,Oceania,Technology,2,6072.0,1489.0
+2014,APAC,Oceania,Technology,3,10526.0,1786.0
+2014,APAC,Oceania,Technology,4,4152.0,803.0
+2014,APAC,Oceania,Technology,5,7998.0,523.0
+2014,APAC,Oceania,Technology,6,22643.0,2677.0
+2014,APAC,Oceania,Technology,7,5294.0,512.0
+2014,APAC,Oceania,Technology,8,8469.0,1896.0
+2014,APAC,Oceania,Technology,9,11503.0,2130.0
+2014,APAC,Oceania,Technology,10,24213.0,1196.0
+2014,APAC,Oceania,Technology,11,20666.0,4209.0
+2014,APAC,Oceania,Technology,12,17787.0,4369.0
+2014,APAC,Southeast Asia,Furniture,1,12632.0,-853.0
+2014,APAC,Southeast Asia,Furniture,2,3250.0,577.0
+2014,APAC,Southeast Asia,Furniture,3,3510.0,29.0
+2014,APAC,Southeast Asia,Furniture,4,7524.0,-673.0
+2014,APAC,Southeast Asia,Furniture,5,16074.0,-181.0
+2014,APAC,Southeast Asia,Furniture,6,15293.0,-1322.0
+2014,APAC,Southeast Asia,Furniture,7,5633.0,-1471.0
+2014,APAC,Southeast Asia,Furniture,8,5002.0,465.0
+2014,APAC,Southeast Asia,Furniture,9,8588.0,252.0
+2014,APAC,Southeast Asia,Furniture,10,6937.0,49.0
+2014,APAC,Southeast Asia,Furniture,11,5722.0,838.0
+2014,APAC,Southeast Asia,Furniture,12,12043.0,767.0
+2014,APAC,Southeast Asia,Office Supplies,1,8693.0,-1066.0
+2014,APAC,Southeast Asia,Office Supplies,2,2030.0,236.0
+2014,APAC,Southeast Asia,Office Supplies,3,5142.0,692.0
+2014,APAC,Southeast Asia,Office Supplies,4,3871.0,78.0
+2014,APAC,Southeast Asia,Office Supplies,5,5103.0,287.0
+2014,APAC,Southeast Asia,Office Supplies,6,10474.0,-786.0
+2014,APAC,Southeast Asia,Office Supplies,7,8468.0,1035.0
+2014,APAC,Southeast Asia,Office Supplies,8,8307.0,-718.0
+2014,APAC,Southeast Asia,Office Supplies,9,4597.0,277.0
+2014,APAC,Southeast Asia,Office Supplies,10,5164.0,13.0
+2014,APAC,Southeast Asia,Office Supplies,11,7238.0,-87.0
+2014,APAC,Southeast Asia,Office Supplies,12,5489.0,146.0
+2014,APAC,Southeast Asia,Technology,1,3269.0,-42.0
+2014,APAC,Southeast Asia,Technology,2,6135.0,-281.0
+2014,APAC,Southeast Asia,Technology,3,6650.0,-687.0
+2014,APAC,Southeast Asia,Technology,4,4652.0,910.0
+2014,APAC,Southeast Asia,Technology,5,14317.0,1053.0
+2014,APAC,Southeast Asia,Technology,6,19396.0,3083.0
+2014,APAC,Southeast Asia,Technology,7,6421.0,-472.0
+2014,APAC,Southeast Asia,Technology,8,17743.0,-443.0
+2014,APAC,Southeast Asia,Technology,9,6720.0,1386.0
+2014,APAC,Southeast Asia,Technology,10,6371.0,-318.0
+2014,APAC,Southeast Asia,Technology,11,7391.0,893.0
+2014,APAC,Southeast Asia,Technology,12,7581.0,-141.0
+2014,Africa,Africa,Furniture,1,4033.0,-259.0
+2014,Africa,Africa,Furniture,2,12221.0,4909.0
+2014,Africa,Africa,Furniture,3,7706.0,1792.0
+2014,Africa,Africa,Furniture,4,3830.0,215.0
+2014,Africa,Africa,Furniture,5,3858.0,-965.0
+2014,Africa,Africa,Furniture,6,4404.0,-430.0
+2014,Africa,Africa,Furniture,7,2718.0,-925.0
+2014,Africa,Africa,Furniture,8,14891.0,211.0
+2014,Africa,Africa,Furniture,9,6501.0,-12.0
+2014,Africa,Africa,Furniture,10,5810.0,1842.0
+2014,Africa,Africa,Furniture,11,6061.0,1599.0
+2014,Africa,Africa,Furniture,12,5485.0,-718.0
+2014,Africa,Africa,Office Supplies,1,5872.0,936.0
+2014,Africa,Africa,Office Supplies,2,10752.0,995.0
+2014,Africa,Africa,Office Supplies,3,4368.0,-1410.0
+2014,Africa,Africa,Office Supplies,4,4327.0,793.0
+2014,Africa,Africa,Office Supplies,5,5422.0,1751.0
+2014,Africa,Africa,Office Supplies,6,6962.0,509.0
+2014,Africa,Africa,Office Supplies,7,8298.0,1305.0
+2014,Africa,Africa,Office Supplies,8,10544.0,1320.0
+2014,Africa,Africa,Office Supplies,9,12432.0,2498.0
+2014,Africa,Africa,Office Supplies,10,3476.0,574.0
+2014,Africa,Africa,Office Supplies,11,11839.0,1231.0
+2014,Africa,Africa,Office Supplies,12,14172.0,740.0
+2014,Africa,Africa,Technology,1,5136.0,437.0
+2014,Africa,Africa,Technology,2,8788.0,3056.0
+2014,Africa,Africa,Technology,3,5176.0,64.0
+2014,Africa,Africa,Technology,4,4253.0,538.0
+2014,Africa,Africa,Technology,5,8000.0,1592.0
+2014,Africa,Africa,Technology,6,7584.0,1336.0
+2014,Africa,Africa,Technology,7,12383.0,3624.0
+2014,Africa,Africa,Technology,8,11189.0,379.0
+2014,Africa,Africa,Technology,9,13070.0,2868.0
+2014,Africa,Africa,Technology,10,8259.0,1151.0
+2014,Africa,Africa,Technology,11,12054.0,1587.0
+2014,Africa,Africa,Technology,12,15031.0,-1049.0
+2014,Canada,Canada,Furniture,1,436.0,136.0
+2014,Canada,Canada,Furniture,2,326.0,166.0
+2014,Canada,Canada,Furniture,6,235.0,92.0
+2014,Canada,Canada,Furniture,8,195.0,11.0
+2014,Canada,Canada,Furniture,9,699.0,211.0
+2014,Canada,Canada,Furniture,11,1268.0,486.0
+2014,Canada,Canada,Furniture,12,218.0,21.0
+2014,Canada,Canada,Office Supplies,1,1240.0,288.0
+2014,Canada,Canada,Office Supplies,2,85.0,19.0
+2014,Canada,Canada,Office Supplies,3,328.0,123.0
+2014,Canada,Canada,Office Supplies,4,20.0,3.0
+2014,Canada,Canada,Office Supplies,5,519.0,137.0
+2014,Canada,Canada,Office Supplies,6,1340.0,269.0
+2014,Canada,Canada,Office Supplies,7,805.0,160.0
+2014,Canada,Canada,Office Supplies,8,770.0,185.0
+2014,Canada,Canada,Office Supplies,9,130.0,42.0
+2014,Canada,Canada,Office Supplies,10,1920.0,471.0
+2014,Canada,Canada,Office Supplies,11,446.0,66.0
+2014,Canada,Canada,Office Supplies,12,3414.0,527.0
+2014,Canada,Canada,Technology,1,931.0,211.0
+2014,Canada,Canada,Technology,5,473.0,45.0
+2014,Canada,Canada,Technology,6,322.0,105.0
+2014,Canada,Canada,Technology,8,7256.0,2540.0
+2014,Canada,Canada,Technology,10,416.0,94.0
+2014,Canada,Canada,Technology,11,899.0,171.0
+2014,Canada,Canada,Technology,12,150.0,40.0
+2014,EMEA,EMEA,Furniture,1,7354.0,2078.0
+2014,EMEA,EMEA,Furniture,2,1457.0,-155.0
+2014,EMEA,EMEA,Furniture,3,3521.0,33.0
+2014,EMEA,EMEA,Furniture,4,1971.0,637.0
+2014,EMEA,EMEA,Furniture,5,1344.0,12.0
+2014,EMEA,EMEA,Furniture,6,9860.0,2426.0
+2014,EMEA,EMEA,Furniture,7,3399.0,-1356.0
+2014,EMEA,EMEA,Furniture,8,4379.0,713.0
+2014,EMEA,EMEA,Furniture,9,9268.0,-1459.0
+2014,EMEA,EMEA,Furniture,10,3542.0,39.0
+2014,EMEA,EMEA,Furniture,11,3676.0,927.0
+2014,EMEA,EMEA,Furniture,12,8631.0,-2225.0
+2014,EMEA,EMEA,Office Supplies,1,5659.0,707.0
+2014,EMEA,EMEA,Office Supplies,2,2131.0,-307.0
+2014,EMEA,EMEA,Office Supplies,3,8015.0,1386.0
+2014,EMEA,EMEA,Office Supplies,4,13070.0,2636.0
+2014,EMEA,EMEA,Office Supplies,5,3975.0,-156.0
+2014,EMEA,EMEA,Office Supplies,6,20155.0,2688.0
+2014,EMEA,EMEA,Office Supplies,7,5065.0,594.0
+2014,EMEA,EMEA,Office Supplies,8,11703.0,1211.0
+2014,EMEA,EMEA,Office Supplies,9,7799.0,609.0
+2014,EMEA,EMEA,Office Supplies,10,10454.0,-371.0
+2014,EMEA,EMEA,Office Supplies,11,10903.0,1709.0
+2014,EMEA,EMEA,Office Supplies,12,7824.0,879.0
+2014,EMEA,EMEA,Technology,1,5932.0,783.0
+2014,EMEA,EMEA,Technology,2,518.0,-275.0
+2014,EMEA,EMEA,Technology,3,2207.0,390.0
+2014,EMEA,EMEA,Technology,4,4719.0,1002.0
+2014,EMEA,EMEA,Technology,5,1623.0,168.0
+2014,EMEA,EMEA,Technology,6,13146.0,-748.0
+2014,EMEA,EMEA,Technology,7,7497.0,-965.0
+2014,EMEA,EMEA,Technology,8,14048.0,2483.0
+2014,EMEA,EMEA,Technology,9,12601.0,-6492.0
+2014,EMEA,EMEA,Technology,10,6332.0,558.0
+2014,EMEA,EMEA,Technology,11,17625.0,3370.0
+2014,EMEA,EMEA,Technology,12,13455.0,759.0
+2014,EU,Central,Furniture,1,6526.0,1756.0
+2014,EU,Central,Furniture,2,8494.0,2105.0
+2014,EU,Central,Furniture,3,12149.0,-2135.0
+2014,EU,Central,Furniture,4,6443.0,534.0
+2014,EU,Central,Furniture,5,10717.0,-126.0
+2014,EU,Central,Furniture,6,14789.0,654.0
+2014,EU,Central,Furniture,7,14849.0,2427.0
+2014,EU,Central,Furniture,8,16884.0,636.0
+2014,EU,Central,Furniture,9,18244.0,3779.0
+2014,EU,Central,Furniture,10,3251.0,320.0
+2014,EU,Central,Furniture,11,27026.0,6601.0
+2014,EU,Central,Furniture,12,11912.0,1250.0
+2014,EU,Central,Office Supplies,1,11929.0,1992.0
+2014,EU,Central,Office Supplies,2,11978.0,770.0
+2014,EU,Central,Office Supplies,3,9790.0,2493.0
+2014,EU,Central,Office Supplies,4,8964.0,1817.0
+2014,EU,Central,Office Supplies,5,11153.0,1770.0
+2014,EU,Central,Office Supplies,6,19375.0,2184.0
+2014,EU,Central,Office Supplies,7,9778.0,2133.0
+2014,EU,Central,Office Supplies,8,27009.0,5608.0
+2014,EU,Central,Office Supplies,9,22798.0,2208.0
+2014,EU,Central,Office Supplies,10,7601.0,920.0
+2014,EU,Central,Office Supplies,11,32996.0,5650.0
+2014,EU,Central,Office Supplies,12,20210.0,3561.0
+2014,EU,Central,Technology,1,9366.0,1074.0
+2014,EU,Central,Technology,2,9798.0,704.0
+2014,EU,Central,Technology,3,7253.0,714.0
+2014,EU,Central,Technology,4,13816.0,834.0
+2014,EU,Central,Technology,5,28351.0,3685.0
+2014,EU,Central,Technology,6,31007.0,3469.0
+2014,EU,Central,Technology,7,12534.0,1538.0
+2014,EU,Central,Technology,8,19030.0,2647.0
+2014,EU,Central,Technology,9,16490.0,1159.0
+2014,EU,Central,Technology,10,9545.0,2348.0
+2014,EU,Central,Technology,11,23144.0,3482.0
+2014,EU,Central,Technology,12,33335.0,2385.0
+2014,EU,North,Furniture,1,10939.0,3520.0
+2014,EU,North,Furniture,2,4417.0,485.0
+2014,EU,North,Furniture,3,2244.0,446.0
+2014,EU,North,Furniture,5,2363.0,12.0
+2014,EU,North,Furniture,6,4806.0,1079.0
+2014,EU,North,Furniture,7,189.0,-9.0
+2014,EU,North,Furniture,8,5028.0,633.0
+2014,EU,North,Furniture,9,6310.0,161.0
+2014,EU,North,Furniture,10,2046.0,832.0
+2014,EU,North,Furniture,11,6552.0,-865.0
+2014,EU,North,Furniture,12,4387.0,981.0
+2014,EU,North,Office Supplies,1,4668.0,574.0
+2014,EU,North,Office Supplies,2,15072.0,3799.0
+2014,EU,North,Office Supplies,3,5783.0,1742.0
+2014,EU,North,Office Supplies,4,738.0,180.0
+2014,EU,North,Office Supplies,5,4302.0,549.0
+2014,EU,North,Office Supplies,6,4940.0,435.0
+2014,EU,North,Office Supplies,7,2088.0,162.0
+2014,EU,North,Office Supplies,8,6021.0,-346.0
+2014,EU,North,Office Supplies,9,5604.0,836.0
+2014,EU,North,Office Supplies,10,3254.0,798.0
+2014,EU,North,Office Supplies,11,11212.0,-242.0
+2014,EU,North,Office Supplies,12,5628.0,872.0
+2014,EU,North,Technology,1,4029.0,701.0
+2014,EU,North,Technology,2,3137.0,1221.0
+2014,EU,North,Technology,3,1276.0,378.0
+2014,EU,North,Technology,4,1905.0,64.0
+2014,EU,North,Technology,5,2398.0,-359.0
+2014,EU,North,Technology,6,16311.0,3392.0
+2014,EU,North,Technology,7,5584.0,1788.0
+2014,EU,North,Technology,8,5707.0,1205.0
+2014,EU,North,Technology,9,7678.0,734.0
+2014,EU,North,Technology,10,5699.0,1056.0
+2014,EU,North,Technology,11,10799.0,2803.0
+2014,EU,North,Technology,12,3528.0,791.0
+2014,EU,South,Furniture,1,1560.0,-148.0
+2014,EU,South,Furniture,2,4673.0,147.0
+2014,EU,South,Furniture,3,1576.0,270.0
+2014,EU,South,Furniture,4,2769.0,727.0
+2014,EU,South,Furniture,6,8435.0,900.0
+2014,EU,South,Furniture,7,4190.0,-312.0
+2014,EU,South,Furniture,8,9314.0,-1632.0
+2014,EU,South,Furniture,9,5476.0,1066.0
+2014,EU,South,Furniture,10,1116.0,348.0
+2014,EU,South,Furniture,11,5732.0,1904.0
+2014,EU,South,Furniture,12,8324.0,-734.0
+2014,EU,South,Office Supplies,1,13814.0,3009.0
+2014,EU,South,Office Supplies,2,2575.0,652.0
+2014,EU,South,Office Supplies,3,2459.0,471.0
+2014,EU,South,Office Supplies,4,5622.0,1185.0
+2014,EU,South,Office Supplies,5,7298.0,1167.0
+2014,EU,South,Office Supplies,6,13477.0,-1338.0
+2014,EU,South,Office Supplies,7,11284.0,3743.0
+2014,EU,South,Office Supplies,8,6162.0,216.0
+2014,EU,South,Office Supplies,9,7633.0,663.0
+2014,EU,South,Office Supplies,10,2869.0,453.0
+2014,EU,South,Office Supplies,11,4483.0,1075.0
+2014,EU,South,Office Supplies,12,9388.0,1895.0
+2014,EU,South,Technology,1,983.0,140.0
+2014,EU,South,Technology,2,11299.0,450.0
+2014,EU,South,Technology,3,1380.0,289.0
+2014,EU,South,Technology,4,4473.0,1060.0
+2014,EU,South,Technology,5,3905.0,1079.0
+2014,EU,South,Technology,6,16067.0,1603.0
+2014,EU,South,Technology,7,13090.0,-1664.0
+2014,EU,South,Technology,8,2152.0,394.0
+2014,EU,South,Technology,9,11866.0,1310.0
+2014,EU,South,Technology,10,12148.0,1324.0
+2014,EU,South,Technology,11,2233.0,-484.0
+2014,EU,South,Technology,12,6546.0,1204.0
+2014,LATAM,Caribbean,Furniture,1,827.0,59.0
+2014,LATAM,Caribbean,Furniture,2,2490.0,-1140.0
+2014,LATAM,Caribbean,Furniture,3,2317.0,472.0
+2014,LATAM,Caribbean,Furniture,4,924.0,-228.0
+2014,LATAM,Caribbean,Furniture,5,3020.0,336.0
+2014,LATAM,Caribbean,Furniture,6,7814.0,-360.0
+2014,LATAM,Caribbean,Furniture,7,1240.0,266.0
+2014,LATAM,Caribbean,Furniture,8,3848.0,19.0
+2014,LATAM,Caribbean,Furniture,9,4725.0,-357.0
+2014,LATAM,Caribbean,Furniture,10,8646.0,609.0
+2014,LATAM,Caribbean,Furniture,11,5100.0,-101.0
+2014,LATAM,Caribbean,Furniture,12,6411.0,1265.0
+2014,LATAM,Caribbean,Office Supplies,1,937.0,194.0
+2014,LATAM,Caribbean,Office Supplies,2,1151.0,72.0
+2014,LATAM,Caribbean,Office Supplies,3,1130.0,259.0
+2014,LATAM,Caribbean,Office Supplies,4,429.0,-74.0
+2014,LATAM,Caribbean,Office Supplies,5,5462.0,1031.0
+2014,LATAM,Caribbean,Office Supplies,6,3885.0,701.0
+2014,LATAM,Caribbean,Office Supplies,7,2010.0,-46.0
+2014,LATAM,Caribbean,Office Supplies,8,1982.0,194.0
+2014,LATAM,Caribbean,Office Supplies,9,2786.0,486.0
+2014,LATAM,Caribbean,Office Supplies,10,3153.0,215.0
+2014,LATAM,Caribbean,Office Supplies,11,5183.0,1319.0
+2014,LATAM,Caribbean,Office Supplies,12,4019.0,1108.0
+2014,LATAM,Caribbean,Technology,1,1515.0,398.0
+2014,LATAM,Caribbean,Technology,2,1660.0,313.0
+2014,LATAM,Caribbean,Technology,3,570.0,-83.0
+2014,LATAM,Caribbean,Technology,4,3594.0,458.0
+2014,LATAM,Caribbean,Technology,5,4584.0,207.0
+2014,LATAM,Caribbean,Technology,6,6406.0,476.0
+2014,LATAM,Caribbean,Technology,7,897.0,193.0
+2014,LATAM,Caribbean,Technology,8,2097.0,367.0
+2014,LATAM,Caribbean,Technology,9,7664.0,798.0
+2014,LATAM,Caribbean,Technology,10,5892.0,542.0
+2014,LATAM,Caribbean,Technology,11,2263.0,-74.0
+2014,LATAM,Caribbean,Technology,12,5570.0,1490.0
+2014,LATAM,Central,Furniture,1,4765.0,905.0
+2014,LATAM,Central,Furniture,2,1110.0,118.0
+2014,LATAM,Central,Furniture,3,8311.0,1080.0
+2014,LATAM,Central,Furniture,4,4717.0,-380.0
+2014,LATAM,Central,Furniture,5,1626.0,100.0
+2014,LATAM,Central,Furniture,6,13238.0,2954.0
+2014,LATAM,Central,Furniture,7,5221.0,1072.0
+2014,LATAM,Central,Furniture,8,2230.0,316.0
+2014,LATAM,Central,Furniture,9,3435.0,453.0
+2014,LATAM,Central,Furniture,10,10313.0,504.0
+2014,LATAM,Central,Furniture,11,8227.0,1184.0
+2014,LATAM,Central,Furniture,12,11676.0,1778.0
+2014,LATAM,Central,Office Supplies,1,2785.0,176.0
+2014,LATAM,Central,Office Supplies,2,2739.0,519.0
+2014,LATAM,Central,Office Supplies,3,3291.0,825.0
+2014,LATAM,Central,Office Supplies,4,3003.0,373.0
+2014,LATAM,Central,Office Supplies,5,5914.0,624.0
+2014,LATAM,Central,Office Supplies,6,11928.0,550.0
+2014,LATAM,Central,Office Supplies,7,2828.0,588.0
+2014,LATAM,Central,Office Supplies,8,2892.0,290.0
+2014,LATAM,Central,Office Supplies,9,5304.0,124.0
+2014,LATAM,Central,Office Supplies,10,6964.0,897.0
+2014,LATAM,Central,Office Supplies,11,10184.0,648.0
+2014,LATAM,Central,Office Supplies,12,5692.0,1311.0
+2014,LATAM,Central,Technology,1,2990.0,501.0
+2014,LATAM,Central,Technology,2,522.0,0.0
+2014,LATAM,Central,Technology,3,4444.0,174.0
+2014,LATAM,Central,Technology,4,9843.0,1102.0
+2014,LATAM,Central,Technology,5,9504.0,1070.0
+2014,LATAM,Central,Technology,6,8060.0,1485.0
+2014,LATAM,Central,Technology,7,4360.0,1099.0
+2014,LATAM,Central,Technology,8,5843.0,-169.0
+2014,LATAM,Central,Technology,9,9355.0,794.0
+2014,LATAM,Central,Technology,10,10986.0,1214.0
+2014,LATAM,Central,Technology,11,9834.0,232.0
+2014,LATAM,Central,Technology,12,5395.0,895.0
+2014,LATAM,North,Furniture,1,3804.0,206.0
+2014,LATAM,North,Furniture,2,1499.0,53.0
+2014,LATAM,North,Furniture,3,3506.0,257.0
+2014,LATAM,North,Furniture,4,2537.0,100.0
+2014,LATAM,North,Furniture,5,6440.0,-354.0
+2014,LATAM,North,Furniture,6,4072.0,537.0
+2014,LATAM,North,Furniture,7,3220.0,276.0
+2014,LATAM,North,Furniture,8,6740.0,86.0
+2014,LATAM,North,Furniture,9,9108.0,940.0
+2014,LATAM,North,Furniture,10,7368.0,-85.0
+2014,LATAM,North,Furniture,11,7278.0,-358.0
+2014,LATAM,North,Furniture,12,7575.0,765.0
+2014,LATAM,North,Office Supplies,1,4824.0,1432.0
+2014,LATAM,North,Office Supplies,2,1381.0,428.0
+2014,LATAM,North,Office Supplies,3,1440.0,321.0
+2014,LATAM,North,Office Supplies,4,4932.0,1185.0
+2014,LATAM,North,Office Supplies,5,2978.0,542.0
+2014,LATAM,North,Office Supplies,6,6743.0,1589.0
+2014,LATAM,North,Office Supplies,7,3315.0,649.0
+2014,LATAM,North,Office Supplies,8,4453.0,1008.0
+2014,LATAM,North,Office Supplies,9,11115.0,2327.0
+2014,LATAM,North,Office Supplies,10,3585.0,650.0
+2014,LATAM,North,Office Supplies,11,4560.0,1183.0
+2014,LATAM,North,Office Supplies,12,4918.0,1168.0
+2014,LATAM,North,Technology,1,2862.0,887.0
+2014,LATAM,North,Technology,2,1664.0,91.0
+2014,LATAM,North,Technology,3,8561.0,2486.0
+2014,LATAM,North,Technology,4,645.0,93.0
+2014,LATAM,North,Technology,5,4659.0,1521.0
+2014,LATAM,North,Technology,6,8208.0,2008.0
+2014,LATAM,North,Technology,7,6253.0,1015.0
+2014,LATAM,North,Technology,8,7551.0,1414.0
+2014,LATAM,North,Technology,9,10244.0,2999.0
+2014,LATAM,North,Technology,10,9973.0,2649.0
+2014,LATAM,North,Technology,11,11462.0,3786.0
+2014,LATAM,North,Technology,12,9277.0,1538.0
+2014,LATAM,South,Furniture,1,7166.0,-641.0
+2014,LATAM,South,Furniture,2,7331.0,-0.0
+2014,LATAM,South,Furniture,3,4484.0,-641.0
+2014,LATAM,South,Furniture,4,10222.0,481.0
+2014,LATAM,South,Furniture,5,3899.0,405.0
+2014,LATAM,South,Furniture,6,5796.0,-2594.0
+2014,LATAM,South,Furniture,7,10809.0,2435.0
+2014,LATAM,South,Furniture,8,3944.0,-721.0
+2014,LATAM,South,Furniture,9,16311.0,-247.0
+2014,LATAM,South,Furniture,10,7852.0,-1305.0
+2014,LATAM,South,Furniture,11,4493.0,-8.0
+2014,LATAM,South,Furniture,12,15666.0,519.0
+2014,LATAM,South,Office Supplies,1,2257.0,136.0
+2014,LATAM,South,Office Supplies,2,1640.0,207.0
+2014,LATAM,South,Office Supplies,3,3303.0,568.0
+2014,LATAM,South,Office Supplies,4,5416.0,941.0
+2014,LATAM,South,Office Supplies,5,3417.0,-173.0
+2014,LATAM,South,Office Supplies,6,6146.0,95.0
+2014,LATAM,South,Office Supplies,7,3494.0,817.0
+2014,LATAM,South,Office Supplies,8,5270.0,-512.0
+2014,LATAM,South,Office Supplies,9,7199.0,-224.0
+2014,LATAM,South,Office Supplies,10,5441.0,1517.0
+2014,LATAM,South,Office Supplies,11,3051.0,-86.0
+2014,LATAM,South,Office Supplies,12,6547.0,321.0
+2014,LATAM,South,Technology,1,1808.0,122.0
+2014,LATAM,South,Technology,2,3828.0,660.0
+2014,LATAM,South,Technology,3,3752.0,611.0
+2014,LATAM,South,Technology,4,6838.0,173.0
+2014,LATAM,South,Technology,5,3731.0,-741.0
+2014,LATAM,South,Technology,6,7633.0,610.0
+2014,LATAM,South,Technology,7,2840.0,342.0
+2014,LATAM,South,Technology,8,5217.0,902.0
+2014,LATAM,South,Technology,9,5124.0,254.0
+2014,LATAM,South,Technology,10,6909.0,370.0
+2014,LATAM,South,Technology,11,6862.0,760.0
+2014,LATAM,South,Technology,12,10705.0,1111.0
+2014,US,Central,Furniture,1,4624.0,272.0
+2014,US,Central,Furniture,2,489.0,-112.0
+2014,US,Central,Furniture,3,5978.0,-668.0
+2014,US,Central,Furniture,4,2945.0,268.0
+2014,US,Central,Furniture,5,5770.0,583.0
+2014,US,Central,Furniture,6,2744.0,-724.0
+2014,US,Central,Furniture,7,2092.0,-374.0
+2014,US,Central,Furniture,8,2771.0,78.0
+2014,US,Central,Furniture,9,10584.0,-978.0
+2014,US,Central,Furniture,10,596.0,-227.0
+2014,US,Central,Furniture,11,9561.0,-179.0
+2014,US,Central,Furniture,12,14472.0,1873.0
+2014,US,Central,Office Supplies,1,393.0,152.0
+2014,US,Central,Office Supplies,2,854.0,-71.0
+2014,US,Central,Office Supplies,3,6608.0,-707.0
+2014,US,Central,Office Supplies,4,4730.0,-2509.0
+2014,US,Central,Office Supplies,5,5479.0,1025.0
+2014,US,Central,Office Supplies,6,1885.0,363.0
+2014,US,Central,Office Supplies,7,4583.0,664.0
+2014,US,Central,Office Supplies,8,2686.0,-110.0
+2014,US,Central,Office Supplies,9,6075.0,-346.0
+2014,US,Central,Office Supplies,10,5559.0,1802.0
+2014,US,Central,Office Supplies,11,4603.0,1034.0
+2014,US,Central,Office Supplies,12,13012.0,7358.0
+2014,US,Central,Technology,1,2352.0,178.0
+2014,US,Central,Technology,2,91.0,1.0
+2014,US,Central,Technology,3,4308.0,543.0
+2014,US,Central,Technology,4,2586.0,544.0
+2014,US,Central,Technology,5,3301.0,247.0
+2014,US,Central,Technology,6,3247.0,498.0
+2014,US,Central,Technology,7,2792.0,460.0
+2014,US,Central,Technology,8,4268.0,668.0
+2014,US,Central,Technology,9,5379.0,674.0
+2014,US,Central,Technology,10,28508.0,10990.0
+2014,US,Central,Technology,11,4987.0,1220.0
+2014,US,Central,Technology,12,4893.0,805.0
+2014,US,East,Furniture,1,1388.0,9.0
+2014,US,East,Furniture,2,1551.0,173.0
+2014,US,East,Furniture,3,5525.0,-251.0
+2014,US,East,Furniture,4,3939.0,639.0
+2014,US,East,Furniture,5,2144.0,421.0
+2014,US,East,Furniture,6,3017.0,-319.0
+2014,US,East,Furniture,7,1896.0,109.0
+2014,US,East,Furniture,8,4208.0,-808.0
+2014,US,East,Furniture,9,7238.0,817.0
+2014,US,East,Furniture,10,6074.0,178.0
+2014,US,East,Furniture,11,10045.0,-11.0
+2014,US,East,Furniture,12,11550.0,977.0
+2014,US,East,Office Supplies,1,3713.0,694.0
+2014,US,East,Office Supplies,2,1798.0,433.0
+2014,US,East,Office Supplies,3,4839.0,1015.0
+2014,US,East,Office Supplies,4,5298.0,477.0
+2014,US,East,Office Supplies,5,5871.0,860.0
+2014,US,East,Office Supplies,6,7615.0,1560.0
+2014,US,East,Office Supplies,7,4991.0,-477.0
+2014,US,East,Office Supplies,8,6395.0,1429.0
+2014,US,East,Office Supplies,9,14446.0,2686.0
+2014,US,East,Office Supplies,10,3912.0,771.0
+2014,US,East,Office Supplies,11,5420.0,912.0
+2014,US,East,Office Supplies,12,13524.0,4396.0
+2014,US,East,Technology,1,1371.0,319.0
+2014,US,East,Technology,2,239.0,85.0
+2014,US,East,Technology,3,10033.0,2760.0
+2014,US,East,Technology,4,14610.0,3416.0
+2014,US,East,Technology,5,22629.0,3297.0
+2014,US,East,Technology,6,3415.0,928.0
+2014,US,East,Technology,7,4142.0,59.0
+2014,US,East,Technology,8,1836.0,37.0
+2014,US,East,Technology,9,2904.0,434.0
+2014,US,East,Technology,10,8164.0,3659.0
+2014,US,East,Technology,11,13756.0,-5987.0
+2014,US,East,Technology,12,7518.0,1913.0
+2014,US,South,Furniture,1,1044.0,-39.0
+2014,US,South,Furniture,2,2003.0,471.0
+2014,US,South,Furniture,3,753.0,44.0
+2014,US,South,Furniture,4,1123.0,281.0
+2014,US,South,Furniture,5,5197.0,565.0
+2014,US,South,Furniture,7,6336.0,976.0
+2014,US,South,Furniture,8,1485.0,-165.0
+2014,US,South,Furniture,9,5567.0,668.0
+2014,US,South,Furniture,10,1039.0,228.0
+2014,US,South,Furniture,11,7189.0,41.0
+2014,US,South,Furniture,12,3317.0,700.0
+2014,US,South,Office Supplies,1,2125.0,912.0
+2014,US,South,Office Supplies,2,4901.0,1010.0
+2014,US,South,Office Supplies,3,2654.0,531.0
+2014,US,South,Office Supplies,4,1303.0,62.0
+2014,US,South,Office Supplies,5,4088.0,914.0
+2014,US,South,Office Supplies,6,841.0,201.0
+2014,US,South,Office Supplies,7,1846.0,392.0
+2014,US,South,Office Supplies,8,1461.0,290.0
+2014,US,South,Office Supplies,9,3348.0,630.0
+2014,US,South,Office Supplies,10,1575.0,98.0
+2014,US,South,Office Supplies,11,5257.0,944.0
+2014,US,South,Office Supplies,12,6450.0,639.0
+2014,US,South,Technology,1,1916.0,276.0
+2014,US,South,Technology,2,14361.0,3463.0
+2014,US,South,Technology,3,1840.0,76.0
+2014,US,South,Technology,4,1297.0,226.0
+2014,US,South,Technology,5,5698.0,1347.0
+2014,US,South,Technology,6,1869.0,299.0
+2014,US,South,Technology,7,1414.0,-47.0
+2014,US,South,Technology,8,1069.0,115.0
+2014,US,South,Technology,9,6153.0,1943.0
+2014,US,South,Technology,10,1341.0,144.0
+2014,US,South,Technology,11,6947.0,2403.0
+2014,US,South,Technology,12,3887.0,690.0
+2014,US,West,Furniture,1,2578.0,151.0
+2014,US,West,Furniture,2,703.0,12.0
+2014,US,West,Furniture,3,3322.0,86.0
+2014,US,West,Furniture,4,7864.0,-711.0
+2014,US,West,Furniture,5,6429.0,862.0
+2014,US,West,Furniture,6,7641.0,483.0
+2014,US,West,Furniture,7,6034.0,668.0
+2014,US,West,Furniture,8,8560.0,376.0
+2014,US,West,Furniture,9,9811.0,556.0
+2014,US,West,Furniture,10,4408.0,-580.0
+2014,US,West,Furniture,11,16855.0,1029.0
+2014,US,West,Furniture,12,20003.0,74.0
+2014,US,West,Office Supplies,1,953.0,288.0
+2014,US,West,Office Supplies,2,1635.0,271.0
+2014,US,West,Office Supplies,3,7372.0,428.0
+2014,US,West,Office Supplies,4,2639.0,550.0
+2014,US,West,Office Supplies,5,1246.0,403.0
+2014,US,West,Office Supplies,6,2422.0,1130.0
+2014,US,West,Office Supplies,7,3968.0,794.0
+2014,US,West,Office Supplies,8,1787.0,612.0
+2014,US,West,Office Supplies,9,5786.0,1685.0
+2014,US,West,Office Supplies,10,7207.0,2966.0
+2014,US,West,Office Supplies,11,11073.0,3654.0
+2014,US,West,Office Supplies,12,11536.0,2692.0
+2014,US,West,Technology,1,1186.0,418.0
+2014,US,West,Technology,2,1828.0,161.0
+2014,US,West,Technology,3,11506.0,855.0
+2014,US,West,Technology,4,1574.0,573.0
+2014,US,West,Technology,5,6838.0,711.0
+2014,US,West,Technology,6,12271.0,1609.0
+2014,US,West,Technology,7,6788.0,2363.0
+2014,US,West,Technology,8,5091.0,626.0
+2014,US,West,Technology,9,16329.0,3366.0
+2014,US,West,Technology,10,4457.0,-610.0
+2014,US,West,Technology,11,6416.0,1063.0
+2014,US,West,Technology,12,10380.0,1352.0
