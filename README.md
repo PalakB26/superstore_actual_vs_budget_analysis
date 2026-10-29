@@ -11,7 +11,7 @@ An end-to-end business-intelligence workbook built entirely in Excel: Power Quer
 | | |
 |---|---|
 | **Company landed on plan** | Revenue $4.30M vs budget $4.30M (−0.02%), +26% YoY |
-| **…but Furniture missed in 8 of 13 regions** | Worst: North Asia −30%, West −24%, Caribbean −12% |
+| **…but Furniture missed in 7 of 13 regions** | Worst: North Asia −30%, West −24%, Caribbean −12% |
 | **Over-plan regions bought volume with margin** | Southeast Asia +14% to budget at **2.7% margin / 27% avg discount**; EMEA +14% at 7.5% margin. Southeast Asia Furniture lost money (−2.1% margin). |
 | **Highest-margin regions were the biggest misses** | Canada (26% margin, 0% discount) −7%; North Asia (20% margin, 5% discount) −13% |
 | **Office Supplies carried the year** | +2.2% vs budget, driven by West (+43%) and Central Asia (+57%) |
